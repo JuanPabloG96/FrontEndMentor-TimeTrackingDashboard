@@ -5,7 +5,7 @@ import './css/App.css'
 export function App() {
   const [data, setData] = useState(null);
   const [time, setTime] = useState('weekly');
-  const DATA_ROUTE = "src/json/data.json";
+  const DATA_ROUTE = "json/data.json";
 
   useEffect(() => {
     fetch(DATA_ROUTE)
