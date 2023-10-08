@@ -99,27 +99,27 @@
 }
 .fm-tracker-1{
   background-color: var(--Light-orange);
-  background-image: url('src/assets/images/icon-work.svg');  
+  background-image: url('images/icon-work.svg');  
 }
 .fm-tracker-2{
   background-color: var(--Soft-blue);
-  background-image: url('src/assets/images/icon-play.svg');  
+  background-image: url('images/icon-play.svg');  
 }
 .fm-tracker-3{
   background-color: var(--Light-red);
-  background-image: url('src/assets/images/icon-study.svg');  
+  background-image: url('images/icon-study.svg');  
 }
 .fm-tracker-4{
   background-color: var(--Lime-green);
-  background-image: url('src/assets/images/icon-exercise.svg');  
+  background-image: url('images/icon-exercise.svg');  
 }
 .fm-tracker-5{
   background-color: var(--Violet);
-  background-image: url('src/assets/images/icon-social.svg');  
+  background-image: url('images/icon-social.svg');  
 }
 .fm-tracker-6{
   background-color: var(--Soft-orange);
-  background-image: url('src/assets/images/icon-self-care.svg');  
+  background-image: url('images/icon-self-care.svg');  
 }
 .fm-time-tracker-bg{
   height: 30px;
