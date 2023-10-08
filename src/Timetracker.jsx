@@ -15,7 +15,7 @@ export function Timetracker({id, title, time, frames}){
         <div className="fm-time-tracker-container">
           <h3 className="fm-time-tracker-title">{title}</h3>
           <button className="fm-time-tracker-options">
-            <img src="src/assets/images/icon-ellipsis.svg" alt="ellipsis menu option" />
+            <img src="images/icon-ellipsis.svg" alt="ellipsis menu option" />
           </button>
         </div>
         <div className="fm-time-tracker-container fm-time-tracker-container-p">

@@ -22,7 +22,7 @@ export function App() {
     <main className="app">
       <article className="fm-user-profile">
         <header className="fm-user-profile-info">
-          <img src="src/assets/images/image-jeremy.png" alt="jeremy robinson avatar" className="fm-user-profile-avatar" />
+          <img src="images/image-jeremy.png" alt="jeremy robinson avatar" className="fm-user-profile-avatar" />
           <div className="fm-user-profile-content">
             <p>Report for</p>
             <h2 className="fm-user-profile-username">Jeremy Robson</h2>
